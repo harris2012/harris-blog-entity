@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>HarrisZhang.Blog.Repository.Entity</id>
+    <version>1.0.0</version>
+    <title>HarrisZhang.Blog.Repository.Entity</title>
+    <authors>Harris Zhang</authors>
+    <owners>Harris Zhang</owners>
+    <licenseUrl>http://www.savory.cn/</licenseUrl>
+    <projectUrl>http://www.savory.cn/</projectUrl>
+    <iconUrl>http://www.savory.cn/</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>HarrisZhang.Blog.Repository.Entity</description>
+    <releaseNotes>HarrisZhang.Blog.Repository.Entity</releaseNotes>
+    <copyright>Copyright HarrisZhang 2018</copyright>
+    <tags>HarrisZhang.Blog.Repository.Entity</tags>
+    <dependencies>
+      <dependency id="Savory.Atomic" version="[1.0.1,)" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="HarrisZhang.Blog.Repository.Entity\bin\Release\HarrisZhang.Blog.Repository.Entity.dll" target="lib\net45" />
+    <file src="HarrisZhang.Blog.Repository.Entity\bin\Release\HarrisZhang.Blog.Repository.Entity.xml" target="lib\net45" />
+  </files>
+</package>
