@@ -14,9 +14,6 @@
     <releaseNotes>HarrisZhang.Blog.Repository.Entity</releaseNotes>
     <copyright>Copyright HarrisZhang 2018</copyright>
     <tags>HarrisZhang.Blog.Repository.Entity</tags>
-    <dependencies>
-      <dependency id="Savory.Atomic" version="[1.0.1,)" />
-    </dependencies>
   </metadata>
   <files>
     <file src="HarrisZhang.Blog.Repository.Entity\bin\Release\HarrisZhang.Blog.Repository.Entity.dll" target="lib\net45" />
